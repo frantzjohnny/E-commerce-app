@@ -20,13 +20,14 @@ const Header = () => {
                 <li>Sobre</li>
                 <li>Categoria</li>
             </ul>
-            <div className="center">BEStSTORE.</div>
+            <div className="center">BESTSTORE.</div>
             <div className="right">
                 <TbSearch />
                 <AiOutlineHeart />
 
                 <span className="cart-icon">
                     <CgShoppingCart />
+                    <span>5</span>
                 </span>
             </div>
 
